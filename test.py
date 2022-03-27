@@ -1,0 +1,3 @@
+test = "takahashi"
+
+print(test)
